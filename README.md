@@ -4,6 +4,7 @@
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-5.0+-orange.svg)](https://www.pyinstaller.org/)
 [![Rich](https://img.shields.io/badge/Rich-13.0+-green.svg)](https://rich.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Wiki](https://img.shields.io/badge/Wiki-Active-brightgreen.svg)](https://github.com/EmanuelPlays/PythonToExeConverter/wiki/Wiki-Info)
 
 > **Transform your Python scripts into standalone executables with ease!** ✨
 
