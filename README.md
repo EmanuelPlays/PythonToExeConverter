@@ -13,6 +13,7 @@ A powerful, interactive Python to EXE converter built on top of PyInstaller, fea
 
 This tool simplifies the process of converting Python scripts into executable files (.exe on Windows, etc.) using PyInstaller. Instead of typing long command-line arguments, you interact with a user-friendly prompt system that guides you through all available options.
 
+
 ### 🔍 How it works
 1. **Interactive Prompts**: Answer simple yes/no and text questions
 2. **Smart Defaults**: Remembers your last settings for faster subsequent builds
@@ -43,14 +44,14 @@ This tool simplifies the process of converting Python scripts into executable fi
 
 ### Installation
 
-1. **Clone or download this repository**
-   ```bash
-   git clone https://github.com/yourusername/py-to-exe-converter.git
-   cd py-to-exe-converter
+1. **Download main.py from this repository **
+   ```Release
+   Install the latest release or packages 
    ```
 
 2. **Install dependencies**
    ```bash
+   cd Downloads
    pip install -r requirements.txt
    ```
 
@@ -137,17 +138,12 @@ Enable developer mode for advanced PyInstaller options:
 
 ```
 py-to-exe-converter/
-├── main.py                 # Main converter script
-├── requirements.txt        # Python dependencies
-├── versioninfo.txt         # Version information template
-├── icon.png               # Default icon
-├── ReadME.md              # This file
-├── test.py                # Test script
-├── main.spec              # PyInstaller spec file
-├── test.spec              # Test spec file
-└── build/                 # Build artifacts (generated)
+├── main.py # The file to convert
+├── build
+   ├── idk build stuff  # Build Stuff             
+├── dist                # EXE File output folder
+    ├── main.exe        # The Exe File 
 ```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
