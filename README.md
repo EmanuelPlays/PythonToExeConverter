@@ -6,11 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Wiki](https://img.shields.io/badge/Wiki-Active-brightgreen.svg)](https://github.com/EmanuelPlays/PythonToExeConverter/wiki/Wiki-Info)
 
-> **Transform your Python scripts into standalone executables with ease!** ✨
 
-A powerful, interactive Python to EXE converter built on top of PyInstaller, featuring a beautiful console interface powered by the Rich library. No more memorizing command-line flags – just answer a few questions and get your executable ready!
-
-## 🎯 What is this?
+## 🎯 What is this thing?
 
 This tool simplifies the process of converting Python scripts into executable files (.exe on Windows, etc.) using PyInstaller. Instead of typing long command-line arguments, you interact with a user-friendly prompt system that guides you through all available options.
 
@@ -37,9 +34,7 @@ This tool simplifies the process of converting Python scripts into executable fi
 - 🛠️ **Developer Mode**: Advanced options for power users
 - 💾 **Persistent Settings**: Remembers your preferences between runs
 
-## 🚀 Quick Start
-
-### Prerequisites
+### What to have
 - Python 3.7 or higher
 - pip (Python package installer)
 
@@ -61,7 +56,7 @@ This tool simplifies the process of converting Python scripts into executable fi
    python main.py
    ```
 
-That's it! Follow the interactive prompts to configure your build.
+That's it!
 
 ## 📖 Usage
 
@@ -155,9 +150,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
